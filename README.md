@@ -1,10 +1,10 @@
-# (Dataset Exploration Title)
-## by (your name here)
+# Loan Data from Prosper Exploration
+## by Jeff Mitchell
 
 
 ## Dataset
 
-> Provide basic information about your dataset in this section. If you selected your own dataset, make sure you note the source of your data and summarize any data wrangling steps that you performed before you started your exploration.
+The dataset used was loan data from Prosper. This contained nearly 114,000 loans from first quarter 2006 to the fourth quarter 2013. The data was obtained from [here](https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv). 
 
 
 ## Summary of Findings
