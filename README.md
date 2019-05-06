@@ -29,7 +29,7 @@ For the multivariate analysis I had to remove outliers in order to make the scal
 
 I had to perform some cleaning on the data in order to get the plots to work. For instance, the filtered data resulted in there being no data from Q4 2005 and Q1 2006 which caused errors. I had to remove these categories to get the plots to work. I also had to create columns to hold the bins for some variables so that I could plot them correctly.
 
-During the analyis I was required to engineer new features to assist with my analysis. This included creating new columns to hold the Loan completed value or creating bins for attributes such as Debt-to-income ratio or Credit score.
+During the analysis I was required to engineer new features to assist with my analysis. This included creating new columns to hold the Loan completed value or creating bins for attributes such as Debt-to-income ratio or Credit score.
 
 ## Key Insights for Presentation
 
